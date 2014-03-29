@@ -7,7 +7,7 @@
     "example": "examples"
   },
   "dependencies": {
-    "rem": "~0.6.3-2"
+    "rem": "git://github.com/ahdinosaur/rem.git"
   },
   "repository": "http://github.com/tcr/echojs",
   "author": "Tim Cameron Ryan",
